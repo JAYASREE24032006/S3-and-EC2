@@ -68,11 +68,8 @@ Simple Storage Service:
 
 ![image](https://github.com/user-attachments/assets/bc0d38bd-8637-454f-a5e8-e2ca0e373526)
 
-## RESULT :
- Thus the EC2 intances ans S3 Bucket is created successfully.
-
 EC2(Elastic Cloud Compute)
 ![image](https://github.com/user-attachments/assets/9d91ffc0-2e29-49f5-b8d8-fe5616a43ff7)
 
-Result:
+## RESULT:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
